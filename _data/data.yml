@@ -1,0 +1,175 @@
+
+sidebar:
+    about: True
+    education: True 
+
+    # Profile information
+    name: Anand Baby
+    tagline: DevOps Engineer
+    avatar: profile.png  
+
+    # Sidebar links
+    email: anandbabyv@gmail.com
+    phone: +91 9746221443
+    website: anandbaby.github.io
+    linkedin: anandbabyv
+    github: AnandBaby
+    Skype: live:anandbabyv_1
+    bitbucket:
+    twitter: AnandBaby6
+    stack-overflow:
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Malayalam
+        level: Native
+
+    interests:
+      - item: Browsing
+        link:
+
+      - item: Travelling
+        link:
+
+      - item: Movies
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      DevOps engineer, experienced in all faces of deployment, testing,
+      maintenance, support. Design and develop continuous deployment pipeline,
+      integrating Git, Jenkins, terraform, docker and ansible etc. across geographically separated
+      hosting zones in AWS and Google compute.
+
+education:
+    - degree: MBA in Systems
+      university: Bharathiar University
+      time: 2014 - 2016
+      details: 73%
+    - degree: Bsc Computer Science
+      university: University of Calicut
+      time: 2011 - 2014
+      details: 67%
+    - degree: Plus Two
+      university: Board of Higher Secondary Examination, Kerala
+      time: 2009 - 2011
+      details: 69%
+    - degree: Std. X
+      university: Board of Public Examination, Kerala
+      time: 2009
+      details: 76%
+experiences:
+    - role: DevOps Intern
+      time: 2019 - Present
+      company: HashedIn Technologies Pvt Ltd, Banglore
+      details: |
+          - Maintained consistent security to ensure that best practices were 
+            implemented at all times.
+          - Develop end to end infrastructure architecture for solutions
+          - Researched and identified new technologies and tools that would help to
+            grow the agile development environment.
+          - Designed strategic plan for high availability  practices.
+          - Basic knowledge configuration management tools (Ansible & Terraform)
+          - Basic Knowledge on automation / integration tools like Jenkins
+          - knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm
+
+    - role: Associate Server Administrator
+      time: 2017 - 2019
+      company: Phases Innovation Pvt. Ltd, Cochin
+      details: |
+          - Administration, deploying and Installing various applications in Linux (LAMP) / Windows servers (IIS, MSSQL& SSMS)
+          - Administration of AWS , GCP and AZURE infrastructure
+          - Monitoring tools (Nagios, Uptimerobot) and adding custom Nagios plugins
+          - Responsible for designing, organizing, modifying, and supporting the company's computer systems, Active Directory and Group Policy.
+          - Designs and installs LANs, WANs, Internet, intranet systems and network segments.
+          - Make recommendations for future upgrades, Maintain network and system security.
+          - CSR generation and SSL installation
+          - job scheduling and automating processes using CRON & Task scheduler
+          - Knowledge in version control tool Git and Git workflows
+          - Working with shell script
+          - Experience with virtualization techniques (Xen & Vagrant) 
+    
+    - role: System Administrator
+      time: 2016 - 2017
+      company: Phoenix Cybertech Pvt. Ltd , Cochin
+      details: |
+          - Managing and monitoring Installed systems, application software, networks.
+          - Installing Linux / Windows operating systems.
+          - Troubleshooting and Resolving problems through remote by various applications
+          - Administrate and supporting servers, desktop computers, printers, software deployment, security updates and Software & Hardware related issues
+          - 24*7 Live chat support
+          - Troubleshooting Windows Servers, Linux servers, Network related issues(LAN, WAN, Switches)
+          - Managing firewall and Basic knowledge in Cyberoam, Fortigate.
+          - Create a backup and recovery policy, User Management, DLP.
+          - Administrating access control and its Databases.
+
+projects:
+    title: Projects
+    intro: >
+    assignments:
+      - title: Dunzo
+        link: "https://www.dunzo.com/"
+        tagline: "Cost Optimizatio, Security & all DevOps operations (AWS,EKS,Terraform)"
+
+      - title: SigTuple
+        link: "https://sigtuple.com/"
+        tagline: "Poc on migration GKE to EKS"
+
+      - title: HashedIn
+        link: "https://hashedin.com/"
+        tagline: "Support ofn Projects Buzztime & Sleevs-up"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux & Windows
+        level: 80%
+
+      - name: DockerSwarm, Kubetnets, ECS
+        level: 70%
+
+      - name: AWS, GCP
+        level: 85%
+
+      - name: Terraform, CloudFormation, Ansible
+        level: 75%
+
+      - name: Shell & Python
+        level: 60%
+
+      - name: ELK Stack, Logentries
+        level: 75%
+
+      - name: Nagios, Promethues, PRTG, NewRelic
+        level: 80%
+      
+      - name: Git, Jenkins, Spinnaker  
+        level: 86%
+
+footer: >
+    <i class="fas fa-heart"></i>

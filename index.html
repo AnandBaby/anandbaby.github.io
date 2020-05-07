@@ -1,12 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Hello World</title>
-  </head>
-  <body>
-    <h1>Hello World</h1>
-    <p>This is a web page by Anand</p>
-  </body>
-</html>
+---
+layout: default
+---
 
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
