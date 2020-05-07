@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Anand Baby | DevOps
-url: 'http://anandbaby.github.io'
-baseurl: '/' #change it according to your repository name
+url: 'https://anandbaby.github.io'
+baseurl: 'https://anandbaby.github.io' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 
