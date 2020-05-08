@@ -26,6 +26,12 @@ sidebar:
 
       - idiom: Malayalam
         level: Native
+      
+      - idiom: Tamil
+        level: Medium
+
+      - idiom: Hindi
+        level: Limited  
 
     interests:
       - item: Browsing
@@ -34,7 +40,7 @@ sidebar:
       - item: Travelling
         link:
 
-      - item: Movies
+      - item: Movies & Music
         link:
 
 career-profile:
@@ -73,15 +79,20 @@ experiences:
           - Researched and identified new technologies and tools that would help to
             grow the agile development environment.
           - Designed strategic plan for high availability  practices.
-          - Basic knowledge configuration management tools (Ansible & Terraform)
-          - Basic Knowledge on automation / integration tools like Jenkins
-          - knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm
+          - Stack Creation on configuration management tools (Ansible, Terraform & CloudFormation)
+          - Knowledge on automation / integration tools like Jenkins, Spinnaker etc
+          - Work experience software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm
+          - Setting up on prem services via terraform (Prometheus, Elasticsearch) 
+          - Cost Optimization on all services by continuous monitoring on the running machine by checking the Load and utilization of the environments which includes EC2, Elasticsearch, redis etc and scale down on non productive hours without any impact.
+          - Troubleshooting on (Linux, Docker, Kubernetes, Jenkins, Spinnaker, etc..)
+          - Developed a CloudFormation stack to orchestrate the EKS environment creation from using parameters (VPC, EKS, Nodes. etc..)
+
 
     - role: Associate Server Administrator
       time: 2017 - 2019
       company: Phases Innovation Pvt. Ltd, Cochin
       details: |
-          - Administration, deploying and Installing various applications in Linux (LAMP) / Windows servers (IIS, MSSQL& SSMS)
+          - Expertise in Implementing Organization Strategy in the environments of Linux (LAMP) and Windows (IIS, MSSQL& SSMS).
           - Administration of AWS , GCP and AZURE infrastructure
           - Monitoring tools (Nagios, Uptimerobot) and adding custom Nagios plugins
           - Responsible for designing, organizing, modifying, and supporting the company's computer systems, Active Directory and Group Policy.
@@ -89,8 +100,10 @@ experiences:
           - Make recommendations for future upgrades, Maintain network and system security.
           - CSR generation and SSL installation
           - job scheduling and automating processes using CRON & Task scheduler
+          - Create a backup and recovery policy, User Management, DLP
+          - Server hardening and Security
           - Knowledge in version control tool Git and Git workflows
-          - Working with shell script
+          - Working with shell script to automate daily repetitive tasks in server
           - Experience with virtualization techniques (Xen & Vagrant) 
     
     - role: System Administrator
@@ -122,26 +135,6 @@ projects:
       - title: HashedIn
         link: "https://hashedin.com/"
         tagline: "Support on Projects Buzztime & Sleevs-up"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-
-#     papers:
-#       - title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
