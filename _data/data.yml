@@ -6,7 +6,7 @@ sidebar:
     # Profile information
     name: Anand Baby
     tagline: DevOps Engineer
-    avatar: profile.png  
+    avatar: image.png  
 
     # Sidebar links
     email: anandbabyv@gmail.com
@@ -64,7 +64,7 @@ education:
       university: Board of Higher Secondary Examination, Kerala
       time: 2009 - 2011
       details: 69%
-    - degree: Std. X
+    - degree: SSLC
       university: Board of Public Examination, Kerala
       time: 2009
       details: 76%
