@@ -14,6 +14,12 @@
     {% endif %}
 
     {% if sidebar.website %}
+    <li class="Location"><i class="fas fa-globe-americas"></i>
+      <a href="https://www.google.com/maps/place/{{ sidebar.website }}" target="_blank">{{ sidebar.location }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
