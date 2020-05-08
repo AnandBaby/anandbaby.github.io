@@ -113,7 +113,7 @@ projects:
     assignments:
       - title: Dunzo
         link: "https://www.dunzo.com/"
-        tagline: "Cost Optimizatio, Security & all DevOps operations (AWS,EKS,Terraform)"
+        tagline: "Cost optimization, Security & all DevOps operations (AWS,EKS,Terraform,etc..)"
 
       - title: SigTuple
         link: "https://sigtuple.com/"
@@ -121,7 +121,7 @@ projects:
 
       - title: HashedIn
         link: "https://hashedin.com/"
-        tagline: "Support ofn Projects Buzztime & Sleevs-up"
+        tagline: "Support on Projects Buzztime & Sleevs-up"
 
 # publications:
 #     title: Publications
