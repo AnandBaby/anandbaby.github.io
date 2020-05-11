@@ -5,7 +5,7 @@ title: Anand Baby | DevOps
 url: 'https://anandbaby.github.io'
 baseurl: 'https://anandbaby.github.io' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: green # blue turquoise green berry orange ceramic
+theme_skin: berry # blue turquoise green berry orange ceramic
 
 # Tracker
 analytics: UA-138530215-1
