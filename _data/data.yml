@@ -1,7 +1,8 @@
 
 sidebar:
     about: True
-    education: True 
+    education: True
+    analytics: True 
 
     # Profile information
     name: Anand Baby
@@ -48,7 +49,7 @@ career-profile:
     summary: |
       DevOps engineer, experienced in all faces of deployment, testing,
       maintenance, support. Design and develop continuous deployment pipeline,
-      integrating Git, Jenkins, terraform, docker and ansible etc. across geographically separated
+      integrating Git, Jenkins, Spinnaker, terraform, docker, Kubernetes, ansible etc. across geographically separated
       hosting zones in AWS and Google compute.
 
 education:
@@ -72,6 +73,7 @@ experiences:
     - role: DevOps Engineer
       time: 2019 - Present
       company: HashedIn Technologies Pvt Ltd, Banglore
+      link: "https://hashedin.com/"
       details: |
           - Maintained consistent security to ensure that best practices were 
             implemented at all times.
@@ -91,6 +93,7 @@ experiences:
     - role: Associate Server Administrator
       time: 2017 - 2019
       company: Phases Innovation Pvt. Ltd, Cochin
+      link: "https://www.phases.dk/"
       details: |
           - Expertise in Implementing Organization Strategy in the environments of Linux (LAMP) and Windows (IIS, MSSQL& SSMS).
           - Administration of AWS , GCP and AZURE infrastructure
