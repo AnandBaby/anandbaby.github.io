@@ -1,7 +1,6 @@
 
 sidebar:
     about: True
-    blog: True
     education: True
     analytics: True
 
