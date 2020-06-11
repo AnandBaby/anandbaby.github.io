@@ -2,7 +2,8 @@
 sidebar:
     about: True
     education: True
-    analytics: True 
+    analytics: True
+    blog: True 
 
     # Profile information
     name: Anand Baby
