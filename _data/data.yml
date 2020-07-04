@@ -140,11 +140,14 @@ projects:
 publications:
     title: Blogs
     intro: |
-      Lets share things we learn from 
+      Lets share the things we that we learn 
     papers:
       - title: Definitive Guide to Optimize Kinesis Costs
         link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
-        authors: Manish Dave & Anand Baby  
+        authors: Manish Dave & Anand Baby 
+      - title: A guide on Elasticsearch
+        link: "https://hashedin.com/blog/elasticsearch/"
+        authors: Manish Dave & Anand Baby 
 
 skills:
     title: Skills &amp; Proficiency
