@@ -140,7 +140,7 @@ projects:
 publications:
     title: Blogs
     intro: |
-      Lets share the things we that we learn 
+      Lets share the things that we learn.
     papers:
       - title: Definitive Guide to Optimize Kinesis Costs
         link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
