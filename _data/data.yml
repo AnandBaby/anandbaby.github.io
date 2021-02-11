@@ -1,0 +1,194 @@
+
+sidebar:
+    about: True
+    education: True
+    analytics: True
+
+    # Profile information
+    name: Anand Baby
+    tagline: DevOps Engineer
+    avatar: image.png  
+
+    # Sidebar links
+    email: anandbabyv@gmail.com
+    phone: +91 9746221443
+    website: anandbaby.github.io
+    linkedin: anandbabyv
+    github: AnandBaby
+    Skype: live:anandbabyv_1
+    bitbucket:
+    twitter: AnandBaby6
+    stack-overflow:
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Malayalam
+        level: Native
+      
+      - idiom: Tamil
+        level: Medium
+
+      - idiom: Hindi
+        level: Limited  
+
+    interests:
+      - item: Browsing
+        link:
+
+      - item: Travelling
+        link:
+
+      - item: Movies & Music
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      DevOps engineer, experienced in all faces of deployment, testing,
+      maintenance, support. Design and develop continuous deployment pipeline,
+      integrating Git, Jenkins, Spinnaker, terraform, docker, Kubernetes, ansible etc. across geographically separated
+      hosting zones in AWS and Google compute.
+
+education:
+    - degree: MBA in Systems
+      university: Bharathiar University
+      time: 2014 - 2016
+      details: 73%
+    - degree: Bsc Computer Science
+      university: University of Calicut
+      time: 2011 - 2014
+      details: 67%
+    - degree: Plus Two
+      university: Board of Higher Secondary Examination, Kerala
+      time: 2009 - 2011
+      details: 69%
+    - degree: SSLC
+      university: Board of Public Examination, Kerala
+      time: 2009
+      details: 76%
+experiences:
+    - role: DevOps Engineer
+      time: 2019 - Present
+      company: HashedIn Technologies Pvt Ltd, Banglore
+      details: |
+          
+          - Maintained consistent security to ensure that best practices were implemented at all times.
+          - Designed, developed, managed, and ensured a strategic plan for high availability  and reliability for a wide range of critical infrastructure systems.
+          - Develop end to end infrastructure architecture for solutions using DevOps tools.
+          - Researched and identified new technologies and tools that would help to grow the agile development environment.
+          - Stack creation and integrating Terraform, Ansible & CloudFormation with CI/CD (Jenkins, Spinnaker, etc) tools.
+          - Experience with software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
+          - Cost Optimization on all services by continuous monitoring on the running machine by checking the Load and utilization of the environments which includes EC2, Elasticsearch, Redis, etc and scale down on non-productive hours without any impact.
+          - Troubleshooting on (Linux, Docker, Kubernetes, Jenkins, Spinnaker, etc..)
+          - Developed a CloudFormation & Terraform stack to orchestrate the EKS environment creation from using parameters (VPC, EKS, EKSNodes. etc..)
+          - Installed, Configured, Managed Monitoring Tools such as Elasticsearch, Prometheus, New Relic for Resource Monitoring/ Network Monitoring/ Application Monitoring / Log Trace Monitoring.
+          - Experience with Morpheus tool - A hybrid cloud management and application management and orchestration platform.
+
+    - role: Associate Server Administrator
+      time: 2017 - 2019
+      company: Phases Innovation Pvt. Ltd, Cochin
+      details: |
+          - Expertise in Implementing Organization Strategy in the environments of Linux (LAMP) and Windows (IIS, MSSQL& SSMS).
+          - Administration of AWS , GCP and AZURE infrastructure
+          - Monitoring tools (Nagios, Uptimerobot) and adding custom Nagios plugins
+          - Responsible for designing, organizing, modifying, and supporting the company's computer systems, Active Directory and Group Policy.
+          - Designs and installs LANs, WANs, Internet, intranet systems and network segments.
+          - Make recommendations for future upgrades, Maintain network and system security.
+          - CSR generation and SSL installation
+          - job scheduling and automating processes using CRON & Task scheduler
+          - Create a backup and recovery policy, User Management, DLP
+          - Server hardening and Security
+          - Knowledge in version control tool Git and Git workflows
+          - Working with shell script to automate daily repetitive tasks in server
+          - Experience with virtualization techniques (Xen & Vagrant) 
+    
+    - role: System Administrator
+      time: 2016 - 2017
+      company: Phoenix Cybertech Pvt. Ltd , Cochin
+      details: |
+          - Managing and monitoring Installed systems, application software, networks.
+          - Installing Linux / Windows operating systems.
+          - Troubleshooting and Resolving problems through remote by various applications
+          - Administrate and supporting servers, desktop computers, printers, software deployment, security updates and Software & Hardware related issues
+          - 24*7 Live chat support
+          - Troubleshooting Windows Servers, Linux servers, Network related issues(LAN, WAN, Switches)
+          - Managing firewall and Basic knowledge in Cyberoam, Fortigate.
+          - Create a backup and recovery policy, User Management, DLP.
+          - Administrating access control and its Databases.
+
+projects:
+    title: Projects
+    intro: >
+    assignments:
+      - title: Dunzo
+        link: "https://www.dunzo.com/"
+        tagline: "DevOps"
+
+      - title: Veri5Digital
+        link: "https://veri5digital.com/"
+        tagline: "Migration"
+
+      - title: Unisys
+        link: "https://www.unisys.com/"
+        tagline: "Hybrid cloud management using Morpheus tool"  
+
+      - title: SigTuple
+        link: "https://sigtuple.com/"
+        tagline: "POC"
+
+      - title: Brandix
+        link: "https://brandix.com/"
+        tagline: "Migration"  
+
+      - title: HashedIn
+        link: "https://hashedin.com/"
+        tagline: "Support on Projects Buzztime & Sleevs-up"
+
+publications:
+    title: Blogs
+    intro: |
+      Lets share the things that we learn.
+    papers:
+      - title: Definitive Guide to Optimize Kinesis Costs
+        link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
+        authors: Manish Dave & Anand Baby 
+      - title: A guide on Elasticsearch
+        link: "https://hashedin.com/blog/elasticsearch/"
+        authors: Manish Dave & Anand Baby 
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux & Windows
+        level: 80%
+
+      - name: AWS
+        level: 82%
+
+      - name: Docker, Kubernetes, DockerSwarm, ECS
+        level: 70%
+
+      - name: AZURE, GCP
+        level: 60%
+
+      - name: Terraform, CloudFormation, Ansible
+        level: 75%
+
+      - name: Shell & Python
+        level: 70%
+
+      - name: ELK Stack, Logentries, Fluentd, Flunetbit
+        level: 75%
+
+      - name: Nagios, Promethues, PRTG, NewRelic
+        level: 80%
+      
+      - name: Git, Jenkins, Spinnaker  
+        level: 86%
+
+footer: >
+    <i class="fas fa-heart"></i>
