@@ -47,10 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      DevOps engineer, experienced in all faces of deployment, testing,
-      maintenance, support. Design and develop continuous deployment pipeline,
-      integrating Git, Jenkins, Spinnaker, terraform, docker, Kubernetes, ansible etc. across geographically separated
-      hosting zones in AWS and Google compute.
+      DevOps engineer with expertise in deployment, testing, maintenance, and support. Designed and developed continuous pipeline  that  is integrated with Git, Jenkins, Spinnaker, Terraform, Docker, Kubernetes, Ansible, and other tools across geographically dispersed hosting zones of cloud provider.
 
 education:
     - degree: MBA in Systems
@@ -72,17 +69,26 @@ education:
 experiences:
     - role: DevOps Engineer II
       time: 2019 - Present
-      company: HashedIn Technologies Pvt Ltd, Banglore
+      company: Omuni powered by Arvind Internet, Banglore
       details: |
           
           - Maintained consistent security to ensure that best practices were implemented at all times.
-          - Designed, developed, managed, and ensured a strategic plan for high availability  and reliability for a wide range of critical infrastructure systems.
-          - Develop end to end infrastructure architecture for solutions using DevOps tools.
+          - In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying, and Application configurations.
+          - Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs.
+          - Building, maintaining and configuring Docker container clusters that are managed by EKS and KOPS for deployment, scaling, and management of applications.
+          - Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks
+          - Experience with Prometheus, Kafka FreeIPA, OpenVPN, Trend Micro DSM, Rundeck, etc..
+    - role: DevOps Engineer II
+      time: 2019 - 2021
+      company: HashedIn Technologies Pvt Ltd, Banglore
+      details: |
+          
+          - Architected, developed, managed, and ensured a strategic plan for high availability and reliability for a wide range of critical infrastructure systems.
           - Researched and identified new technologies and tools that would help to grow the agile development environment.
           - Stack creation and integrating Terraform, Ansible & CloudFormation with CI/CD (Jenkins, Spinnaker, etc) tools.
           - Experience with software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
           - Cost Optimization on all services by continuous monitoring on the running machine by checking the Load and utilization of the environments which includes EC2, Elasticsearch, Redis, etc and scale down on non-productive hours without any impact.
-          - Troubleshooting on (Linux, Docker, Kubernetes, Jenkins, Spinnaker, etc..)
+          - Troubleshooting on Linux, Docker, Kubernetes, Jenkins, Spinnaker, etc..
           - Developed a CloudFormation & Terraform stack to orchestrate the EKS environment creation from using parameters (VPC, EKS, EKSNodes. etc..)
           - Installed, Configured, Managed Monitoring Tools such as Elasticsearch, Prometheus, New Relic for Resource Monitoring/ Network Monitoring/ Application Monitoring / Log Trace Monitoring.
           - Experience with Morpheus tool - A hybrid cloud management and application management and orchestration platform.
@@ -93,31 +99,17 @@ experiences:
       details: |
           - Expertise in Implementing Organization Strategy in the environments of Linux (LAMP) and Windows (IIS, MSSQL& SSMS).
           - Administration of AWS , GCP and AZURE infrastructure
-          - Monitoring tools (Nagios, Uptimerobot) and adding custom Nagios plugins
+          - Designs and installs LANs, WANs, Internet, intranet systems, and network segments.
           - Responsible for designing, organizing, modifying, and supporting the company's computer systems, Active Directory and Group Policy.
-          - Designs and installs LANs, WANs, Internet, intranet systems and network segments.
           - Make recommendations for future upgrades, Maintain network and system security.
-          - CSR generation and SSL installation
-          - job scheduling and automating processes using CRON & Task scheduler
-          - Create a backup and recovery policy, User Management, DLP
-          - Server hardening and Security
-          - Knowledge in version control tool Git and Git workflows
-          - Working with shell script to automate daily repetitive tasks in server
-          - Experience with virtualization techniques (Xen & Vagrant) 
     
     - role: System Administrator
       time: 2016 - 2017
       company: Phoenix Cybertech Pvt. Ltd , Cochin
       details: |
           - Managing and monitoring Installed systems, application software, networks.
-          - Installing Linux / Windows operating systems.
-          - Troubleshooting and Resolving problems through remote by various applications
-          - Administrate and supporting servers, desktop computers, printers, software deployment, security updates and Software & Hardware related issues
-          - 24*7 Live chat support
           - Troubleshooting Windows Servers, Linux servers, Network related issues(LAN, WAN, Switches)
-          - Managing firewall and Basic knowledge in Cyberoam, Fortigate.
-          - Create a backup and recovery policy, User Management, DLP.
-          - Administrating access control and its Databases.
+          - Administration of Linux & Windows servers, as well as ﬁrewalls and other security devices.
 
 projects:
     title: Projects
