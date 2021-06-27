@@ -67,17 +67,17 @@ education:
       time: 2009
       details: 76%
 experiences:
-    - role: DevOps Engineer II
-      time: 2019 - Present
-      company: Omuni powered by Arvind Internet, Banglore
-      details: |
-          
-          - Maintained consistent security to ensure that best practices were implemented at all times.
-          - In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying, and Application configurations.
-          - Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs.
-          - Building, maintaining and configuring Docker container clusters that are managed by EKS and KOPS for deployment, scaling, and management of applications.
-          - Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks
-          - Experience with Prometheus, Kafka FreeIPA, OpenVPN, Trend Micro DSM, Rundeck, etc..
+#    - role: DevOps Engineer II
+#      time: 2019 - Present
+#      company: Omuni powered by Arvind Internet, Banglore
+#      details: |
+#          
+#          - Maintained consistent security to ensure that best practices were implemented at all times.
+#          - In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying, and Application configurations.
+#          - Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs.
+#          - Building, maintaining and configuring Docker container clusters that are managed by EKS and KOPS for deployment, scaling, and management of applications.
+#          - Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks
+#          - Experience with Prometheus, Kafka FreeIPA, OpenVPN, Trend Micro DSM, Rundeck, etc..
     - role: DevOps Engineer II
       time: 2019 - 2021
       company: HashedIn Technologies Pvt Ltd, Banglore
