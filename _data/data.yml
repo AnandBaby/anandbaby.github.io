@@ -67,8 +67,17 @@ education:
       time: 2009
       details: 76%
 experiences:
-    - role: DevOps Engineer II
-      time: 2021 - Present
+    - role: Software Engineer - System Engineering
+      time: 2022 - Present
+      company: PharmEasy, Banglore
+      details: |
+          
+          - Architected, developed, managed, and ensured a strategic plan for high availability and reliability for a wide range of critical infrastructure systems.
+          - Advanced networking on AWS with right security practices for different business driven use cases.
+          - Building/Maintaining/Updating the monitoring tools to monitor systems, applications, databases as well as business transactions. implementing/supporting and managing Identity, Authentication, Authorization, TokenServices for federated single sign-on using technologies such as SAML, OAuth, LDAP.
+          - Experience with Akamai, Sentry, Kafka, Vault, ArgoCD, Crossplane, etc..
+    - role: DevOps Cloud Engineer II
+      time: 2021 - 2021
       company: Omuni powered by Arvind Internet, Banglore
       details: |
           
@@ -83,7 +92,6 @@ experiences:
       company: HashedIn Technologies Pvt Ltd, Banglore
       details: |
           
-          - Architected, developed, managed, and ensured a strategic plan for high availability and reliability for a wide range of critical infrastructure systems.
           - Researched and identified new technologies and tools that would help to grow the agile development environment.
           - Stack creation and integrating Terraform, Ansible & CloudFormation with CI/CD (Jenkins, Spinnaker, etc) tools.
           - Experience with software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
