@@ -60,6 +60,12 @@
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.pdf %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
