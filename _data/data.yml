@@ -126,27 +126,16 @@ projects:
     assignments:
       - title: Dunzo
         link: "https://www.dunzo.com/"
-        tagline: "DevOps"
+        tagline: "DevOps & SRE activities "
 
       - title: Veri5Digital
         link: "https://veri5digital.com/"
-        tagline: "Migration"
+        tagline: "Migration form VM to K8s"
 
       - title: Unisys
         link: "https://www.unisys.com/"
         tagline: "Hybrid cloud management using Morpheus tool"  
 
-      - title: SigTuple
-        link: "https://sigtuple.com/"
-        tagline: "POC"
-
-      - title: Brandix
-        link: "https://brandix.com/"
-        tagline: "Migration"  
-
-      - title: HashedIn
-        link: "https://hashedin.com/"
-        tagline: "Support on Projects Buzztime & Sleevs-up"
 
 publications:
     title: Blogs
@@ -188,7 +177,7 @@ skills:
       - name: Nagios, Promethues, PRTG, NewRelic
         level: 80%
       
-      - name: Git, Jenkins, Spinnaker  
+      - name: Git, Jenkins, ArgoCD, Spinnaker
         level: 86%
 
 footer: >
