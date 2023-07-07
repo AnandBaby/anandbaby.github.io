@@ -174,7 +174,7 @@ skills:
       - name: Shell & Python
         level: 70%
 
-      - name: ELK Stack, Logentries, Fluentd, Flunetbit
+      - name: ELK Stack, Log Shippers
         level: 75%
 
       - name: Victoria Metrics, Prometheus, Nagios, Grafana
