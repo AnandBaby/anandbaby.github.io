@@ -79,7 +79,7 @@ experiences:
           - Experience with Akamai, Sentry, Kafka, Vault, ArgoCD, Crossplane, etc..
     - role: DevOps Cloud Engineer II
       time: 2021 - 2021
-      company: Omuni powered by Arvind Internet, Banglore
+      company: omuni.com - Arvind Internet, Banglore
       details: |
           
           - Maintained consistent security to ensure that best practices were implemented at all times.
@@ -159,8 +159,11 @@ skills:
       - name: AWS
         level: 82%
 
-      - name: Docker, Kubernetes, DockerSwarm, ECS
-        level: 70%
+      - name: Docker & Kubernetes
+        level: 75%
+      
+      - name: DockerSwarm, ECS
+        level: 60%
 
       - name: AZURE, GCP
         level: 60%
@@ -174,8 +177,11 @@ skills:
       - name: ELK Stack, Logentries, Fluentd, Flunetbit
         level: 75%
 
-      - name: Nagios, Promethues, PRTG, NewRelic
+      - name: Victoria Metrics, Prometheus, Nagios, Grafana
         level: 80%
+   
+      - name: New Relic, Instana, AppD
+        level: 60%
       
       - name: Git, Jenkins, ArgoCD, Spinnaker
         level: 86%
