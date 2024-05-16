@@ -68,31 +68,43 @@ education:
       time: 2009
       details: 76%
 experiences:
+    - role: Senior DevOps Engineer
+      time: 2023 - Present
+      company: CSG International, Banglore
+      details: |          
+          - Designed and implemented end-to-end infrastructure architecture for Kubernetes.
+          - Successfully migrated services from EC2 to Kubernetes (EKS & AKS) utilizing Terraform as Infrastructure as Code and ArgoCD for GitOps deployment management.
+          - Release coordinator for new product version release activity with minimal downtime.
+          - Automated monitoring tools setup and configuration for tracking business transactions, systems, applications, and databases.
+          - Ensured consistent security practices were implemented at all times.
+          - Configured and managed NGINX Ingress Controller and Application Load Balancer (ALB) Ingress Controller for efficient and secure routing of traffic to Kubernetes services, optimizing performance and scalability.
+          - Mentored junior team members and provided technical guidance on DevOps best practices and tools.
+
     - role: Software Engineer - System Engineering
-      time: 2022 - Present
+      time: 2022 - 2023
       company: PharmEasy, Banglore
       details: |
           
           - Architected, developed, managed, and ensured a strategic plan for high availability and reliability for a wide range of critical infrastructure systems.
           - Advanced networking on AWS with right security practices for different business driven use cases.
           - Building/Maintaining/Updating the monitoring tools to monitor systems, applications, databases as well as business transactions. implementing/supporting and managing Identity, Authentication, Authorization, TokenServices for federated single sign-on using technologies such as SAML, OAuth, LDAP.
-          - Experience with Akamai, Sentry, Kafka, Vault, ArgoCD, Crossplane, etc..
+          - Experience with Akamai, Sentry, Kafka, Vault, ArgoCD, Crossplane, ECK, etc..
+
     - role: DevOps Cloud Engineer II
       time: 2021 - 2021
       company: omuni.com - Arvind Internet, Banglore
-      details: |
-          
+      details: |         
           - Maintained consistent security to ensure that best practices were implemented at all times.
           - In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying, and Application configurations.
           - Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs.
           - Building, maintaining and configuring Docker container clusters that are managed by EKS and KOPS for deployment, scaling, and management of applications.
           - Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks
           - Experience with Prometheus, Kafka FreeIPA, OpenVPN, Trend Micro DSM, Rundeck, etc..
+  
     - role: DevOps Engineer II
       time: 2019 - 2021
       company: HashedIn Technologies Pvt Ltd, Banglore
-      details: |
-          
+      details: |          
           - Researched and identified new technologies and tools that would help to grow the agile development environment.
           - Stack creation and integrating Terraform, Ansible & CloudFormation with CI/CD (Jenkins, Spinnaker, etc) tools.
           - Experience with software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
@@ -153,37 +165,55 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux & Windows
+      - name: Linux Servers
         level: 80%
+
+      - name: Windows Servers
+        level: 60%
 
       - name: AWS
         level: 82%
 
-      - name: Docker & Kubernetes
+      - name: Azure
+        level: 70%
+      
+      - name: GCP
+        level: 60%
+
+      - name: Docker
         level: 75%
       
-      - name: DockerSwarm, ECS
-        level: 60%
+      - name: Kubernetes
+        level: 80%
 
-      - name: AZURE, GCP
-        level: 60%
+      - name: Terraform
+        level: 85%
 
-      - name: Terraform, CloudFormation, Ansible
-        level: 75%
+      - name: CloudFormation & Ansible
+        level: 73%
 
       - name: Shell & Python
         level: 70%
 
-      - name: ELK Stack, Log Shippers
+      - name: ELK, ECK & Opensearch
         level: 75%
 
-      - name: Victoria Metrics, Prometheus, Nagios, Grafana
+      - name: Filebeat & Logstash
+        level: 75%
+
+      - name: Victoria Metrics
+        level: 90%
+
+      - name: Prometheus, Nagios, Grafana
         level: 80%
    
       - name: New Relic, Instana, AppD
         level: 60%
       
-      - name: Git, Jenkins, ArgoCD, Spinnaker
+      - name: GitLab & Jenkins
+        level: 86%
+      
+      - name: ArgoCD
         level: 86%
 
 footer: >
