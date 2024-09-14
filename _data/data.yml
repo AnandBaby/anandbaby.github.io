@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      DevOps engineer with expertise in deployment, testing, maintenance, and support. Designed and developed continuous pipeline  that  is integrated with Git, Jenkins, Spinnaker, Terraform, Docker, Kubernetes, Ansible, and other tools across geographically dispersed hosting zones of cloud provider.
+      DevOps engineer with expertise in cloud infrastructure and deployment. Skilled in using tools like Git and GitLab Pipeline, Jenkins, ArgoCD, Terraform, Terragrunt, Docker, Kubernetes, and Ansible to create and manage automated deployment pipelines. Experienced in monitoring and maintaining complex cloud environments across multiple geographic locations.
 
 education:
     - degree: MBA in Systems
