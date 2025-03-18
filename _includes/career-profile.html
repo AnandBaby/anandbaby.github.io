@@ -1,48 +1,18 @@
-{% assign sidebar = site.data.data.sidebar %}
 {% assign career-profile = site.data.data.career-profile %}
+{% if career-profile %}
+<section class="section summary-section">
 
-<div class="sidebar-wrapper" style="width: 260px; position: fixed; height: 100vh; overflow-y: auto;">
-  <div class="profile-container">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-user fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ career-profile.title }}
+  </h2>
 
-    {% if sidebar.name %}
-    <h1 class="name">{{ sidebar.name }}</h1>
-    {% endif %}
-
-    {% if sidebar.tagline %}
-    <h3 class="tagline">{{ sidebar.tagline }}</h3>
-    {% endif %}
-
-  </div><!--//profile-container-->
-
-  {% include contact.html %}
-
-  {% if sidebar.education %}
-    {% include education.html %}
-  {% endif %}
-
-  {% include language.html %}
-  {% include interests.html %}
-
-  {% if sidebar.about %}
-    {% include about.html %}
-  {% endif %}
-
-</div><!--//sidebar-wrapper-->
-
-<div class="content-wrapper" style="margin-left: 260px; width: calc(100% - 260px); padding: 20px; box-sizing: border-box;">
-  {% if career-profile %}
-  <section class="section summary-section">
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-user fa-stack-1x fa-inverse"></i>
-      </span>
-      {{ career-profile.title }}
-    </h2>
-
-    <div class="summary">
-      {{ career-profile.summary | markdownify }}
-    </div><!--//summary-->
-  </section><!--//section-->
-  {% endif %}
-</div><!--//content-wrapper-->
+  <div class="summary">
+    {{ career-profile.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}
