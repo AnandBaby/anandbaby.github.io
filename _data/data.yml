@@ -7,8 +7,7 @@ sidebar:
     # Profile information
     name: Anand Baby
     tagline: DevOps Engineer
-    avatar: image.png  
-
+  
     # Sidebar links
     email: anandbabyv@gmail.com
     phone: +91 9746221443
@@ -19,7 +18,7 @@ sidebar:
     twitter: AnandBaby6
     stack-overflow:
     codewars:
-    pdf: https://drive.google.com/file/d/1Q-FOVLW5DtcAAU2aWs2c6eUGIYT2GRQU/view?usp=sharing
+    pdf: https://drive.google.com/uc?export=download&id=1Q-FOVLW5DtcAAU2aWs2c6eUGIYT2GRQU
 
     languages:
       - idiom: English
