@@ -18,7 +18,8 @@ sidebar:
     twitter: AnandBaby6
     stack-overflow:
     codewars:
-    pdf: https://drive.google.com/uc?export=download&id=1Q-FOVLW5DtcAAU2aWs2c6eUGIYT2GRQU
+    pdf: https://drive.google.com/uc?export=download&id=1OU1a9UTZ6Mh8AkRyLXNmZmcBoeeyhofC
+
 
     languages:
       - idiom: English
@@ -46,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      DevOps engineer with expertise in cloud infrastructure and deployment. Skilled in using tools like Git and GitLab Pipeline, Jenkins, ArgoCD, Terraform, Terragrunt, Docker, Kubernetes, and Ansible to create and manage automated deployment pipelines. Experienced in monitoring and maintaining complex cloud environments across multiple geographic locations.
+      DevOps Engineer with expertise in cloud infrastructure, automation, and deployment. Skilled in building and optimizing CI/CD pipelines using GitLab, Jenkins, ArgoCD, and Kubernetes. Proficient in Terraform, Terragrunt, Docker, and Ansible to streamline deployments and manage cloud environments. Experienced in implementing cost optimization strategies while ensuring system reliability and performance.
 
 education:
     - degree: MBA in Systems
