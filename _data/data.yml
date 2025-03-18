@@ -15,7 +15,6 @@ sidebar:
     website: anandbaby.github.io
     linkedin: anandbabyv
     github: AnandBaby
-    Skype: live:anandbabyv_1
     bitbucket:
     twitter: AnandBaby6
     stack-overflow:
@@ -70,7 +69,7 @@ education:
 experiences:
     - role: Senior DevOps Engineer
       time: 2023 - Present
-      company: CSG International, Banglore
+      company: CSG International, Bangalore
       details: |          
           - Designed and implemented end-to-end infrastructure architecture for Kubernetes.
           - Successfully migrated services from EC2 to Kubernetes (EKS & AKS) utilizing Terraform as Infrastructure as Code and ArgoCD for GitOps deployment management.
@@ -82,7 +81,7 @@ experiences:
 
     - role: Software Engineer - System Engineering
       time: 2022 - 2023
-      company: PharmEasy, Banglore
+      company: PharmEasy, Bangalore
       details: |
           
           - Architected, developed, managed, and ensured a strategic plan for high availability and reliability for a wide range of critical infrastructure systems.
@@ -92,7 +91,7 @@ experiences:
 
     - role: DevOps Cloud Engineer II
       time: 2021 - 2021
-      company: omuni.com - Arvind Internet, Banglore
+      company: omuni.com - Arvind Internet, Bangalore
       details: |         
           - Maintained consistent security to ensure that best practices were implemented at all times.
           - In-depth understanding of the principles and best practices of Software Configuration Management (SCM) processes, which include compiling, packaging, deploying, and Application configurations.
@@ -103,7 +102,7 @@ experiences:
   
     - role: DevOps Engineer II
       time: 2019 - 2021
-      company: HashedIn Technologies Pvt Ltd, Banglore
+      company: HashedIn Technologies Pvt Ltd, Bangalore
       details: |          
           - Researched and identified new technologies and tools that would help to grow the agile development environment.
           - Stack creation and integrating Terraform, Ansible & CloudFormation with CI/CD (Jenkins, Spinnaker, etc) tools.
@@ -126,7 +125,7 @@ experiences:
     
     - role: System Administrator
       time: 2016 - 2017
-      company: Phoenix Cybertech Pvt. Ltd , Cochin
+      company: Phoenix Cybertech Pvt. Ltd , Ernakulam
       details: |
           - Managing and monitoring Installed systems, application software, networks.
           - Troubleshooting Windows Servers, Linux servers, Network related issues(LAN, WAN, Switches)
@@ -137,15 +136,15 @@ projects:
     intro: >
     assignments:
       - title: Dunzo
-        link: "https://www.dunzo.com/"
-        tagline: "DevOps & SRE activities "
+        link: 'https://www.dunzo.com/'
+        tagline: "DevOps & SRE activities"
 
       - title: Veri5Digital
-        link: "https://veri5digital.com/"
+        link: 'https://veri5digital.com/'
         tagline: "Migration form VM to K8s"
 
       - title: Unisys
-        link: "https://www.unisys.com/"
+        link: 'https://www.unisys.com/'
         tagline: "Hybrid cloud management using Morpheus tool"  
 
 
@@ -186,7 +185,7 @@ skills:
       - name: Kubernetes
         level: 80%
 
-      - name: Terraform
+      - name: Terraform & Terragrunt
         level: 85%
 
       - name: CloudFormation & Ansible
