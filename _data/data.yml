@@ -1,0 +1,225 @@
+
+sidebar:
+    about: True
+    education: True
+    analytics: True
+
+    # Profile information
+    name: Anand Baby
+    tagline: DevOps Engineer
+  
+    # Sidebar links
+    email: anandbabyv@gmail.com
+    phone: +91 9746221443
+    website: anandbaby.github.io
+    linkedin: anandbabyv
+    github: AnandBaby
+    bitbucket:
+    twitter: AnandBaby6
+    stack-overflow:
+    codewars:
+    pdf: https://drive.google.com/uc?export=download&id=1t-LYYvV-xsO4Z3qZH4U4spBCS7qnBs15
+
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Malayalam
+        level: Native
+      
+      - idiom: Tamil
+        level: Medium
+
+      - idiom: Hindi
+        level: Limited  
+
+    interests:
+      - item: Browsing
+        link:
+
+      - item: Travelling
+        link:
+
+      - item: Movies & Music
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      DevOps Engineer with expertise in cloud infrastructure, automation, and deployment. Skilled in building and optimizing CI/CD pipelines using GitLab, Jenkins, ArgoCD, and Kubernetes. Proficient in Terraform, Terragrunt, Docker, and Ansible to streamline deployments and manage cloud environments. Experienced in implementing cost optimization strategies while ensuring system reliability and performance.
+
+education:
+    - degree: MBA in Systems
+      university: Bharathiar University
+      time: 2014 - 2016
+      details: 73%
+    - degree: Bsc Computer Science
+      university: University of Calicut
+      time: 2011 - 2014
+      details: 67%
+    - degree: Plus Two
+      university: Board of Higher Secondary Examination, Kerala
+      time: 2009 - 2011
+      details: 69%
+    - degree: SSLC
+      university: Board of Public Examination, Kerala
+      time: 2009
+      details: 76%
+experiences:
+    - role: Senior DevOps Engineer
+      time: 2023 - Present
+      company: CSG International, Bangalore
+      details: |          
+          - Designed and implemented end-to-end infrastructure architecture for Kubernetes using Terraform/OpenTofu and Terragrunt as IaC.
+          - Successfully migrated services from EC2 to Kubernetes (EKS & AKS)
+          - Configured ArgoCD Helm charts for GitOps-based deployments.
+          - Automated monitoring, alerting & logging for apps and infra across AWS and Azure.
+          - Ensured consistent security practices were implemented at all times.
+          - Built reverse proxy solutions for secure and scalable traffic routing in Kubernetes.
+          - Reduced 40% of cloud costs through resource optimization.
+          - Provided technical guidance to juniors on DevOps tools and best practices.
+
+    - role: Software Engineer - System Engineering  
+      time: 2022 - 2023
+      company: PharmEasy, Bangalore
+      details: |         
+          - Architected and managed critical infrastructure to ensure HA and reliability.
+          - Implemented advanced AWS networking with security best practices
+          - Built and maintained CI/CD pipelines for deployments with Jenkins and ArgoCD.
+          - Implemented cloud cost optimizations, achieving significant savings.
+          - Integrated DevOps practices into the SDLC through cross-team collaboration.
+          - Performed EKS upgrades to ensure stability, security, and feature enhancements.
+          - Managed Elasticsearch and Kibana on Kubernetes using ECK. 
+          - Automated serverless model deployments on AWS Lambda for inference workflows.
+          - Experience with Akamai, Sentry, Kafka, HashiCorp Vault, ArgoCD, Crossplane, etc..
+
+    - role: DevOps Cloud Engineer II
+      time: 2021 - 2021
+      company: omuni.com - Arvind Internet, Bangalore
+      details: |         
+          - Maintained consistent security to ensure that best practices were implemented.
+          - Managed CI/CD pipelines in Jenkins to support weekly and on-demand releases.
+          - Maintained K8s clusters using KOPS for application deployment and management.
+          - Worked with tools such as Kafka, FreeIPA, OpenVPN, and Rundeck.
+          - Analyzed and resolved security issues based on reports from Trend Micro DSM.
+          - Led DevOps team, mentored members, and ensured timely project delivery.
+  
+    - role: DevOps Engineer II
+      time: 2019 - 2021
+      company: HashedIn Technologies Pvt Ltd, Bangalore
+      details: |          
+          - Researched and identified new technologies and tools that would help to grow the agile development environment.
+          - Experienced in containerization using Docker and orchestration with Kubernetes.
+          - Optimized cloud costs through analysis and scaling strategies for various clients.
+          - Implemented solutions for clients for infrastructure provisioning, monitoring, and automation to enhance scalability and reliability.
+          - Managed multiple client engagements to ensure successful and timely project delivery.
+          - Developed a CloudFormation & Terraform stack to orchestrate the EKS environment creation from using parameters (VPC, EKS, EKSNodes. etc..)
+          - Experience with Morpheus tool - A hybrid cloud management and application management and orchestration platform.
+
+    - role: Associate Server Administrator
+      time: 2017 - 2019
+      company: Phases Innovation Pvt. Ltd, Cochin
+      details: |
+          - Troubleshooting server outages and root cause analysis.
+          - Managed systems with Active Directory, Group Policies, and deployed applications on Linux (LAMP) and Windows (IIS, MSSQL).
+          - Maintaining high-end production servers & Cloud (AWS, GCP, Linode, XEN)
+          - Configured and maintained backup and disaster recovery solutions.
+          - Set up and maintained system & app monitoring for uptime and performance.
+
+    
+    - role: System Administrator
+      time: 2016 - 2017
+      company: Phoenix Cybertech Pvt. Ltd , Ernakulam
+      details: |
+          - Resolved technical issues raised by clients in a timely and efficient manner.          
+          - Recommended system upgrades and maintaining network and system security.
+          - Troubleshooting Windows & Linux servers, N/W related issues(LAN, WAN, Switches)
+          
+
+projects:
+    title: Projects
+    intro: >
+    assignments:
+      - title: Dunzo
+        link: 'https://www.dunzo.com/'
+        tagline: "DevOps & SRE activities"
+
+      - title: Veri5Digital
+        link: 'https://veri5digital.com/'
+        tagline: "Migration form VM to K8s"
+
+      - title: Unisys
+        link: 'https://www.unisys.com/'
+        tagline: "Hybrid cloud management using Morpheus tool"  
+
+
+publications:
+    title: Blogs
+    intro: |
+      Lets share the things that we learn.
+    papers:
+      - title: Definitive Guide to Optimize Kinesis Costs
+        link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
+        authors: Manish Dave & Anand Baby 
+      - title: A guide on Elasticsearch
+        link: "https://hashedin.com/blog/elasticsearch/"
+        authors: Manish Dave & Anand Baby 
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux Servers
+        level: 80%
+
+      - name: Windows Servers
+        level: 60%
+
+      - name: AWS
+        level: 82%
+
+      - name: Azure
+        level: 70%
+      
+      - name: GCP
+        level: 60%
+
+      - name: Docker
+        level: 75%
+      
+      - name: Kubernetes
+        level: 80%
+
+      - name: Terraform & Terragrunt
+        level: 85%
+
+      - name: CloudFormation & Ansible
+        level: 73%
+
+      - name: Shell & Python
+        level: 70%
+
+      - name: ELK, ECK & Opensearch
+        level: 75%
+
+      - name: Filebeat & Logstash
+        level: 75%
+
+      - name: Victoria Metrics
+        level: 90%
+
+      - name: Prometheus, Nagios, Grafana
+        level: 80%
+   
+      - name: New Relic, Instana, AppD
+        level: 60%
+      
+      - name: GitLab & Jenkins
+        level: 86%
+      
+      - name: ArgoCD
+        level: 86%
+
+footer: >
+    <i class="fas fa-heart"></i>
