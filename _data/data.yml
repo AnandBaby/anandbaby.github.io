@@ -137,34 +137,34 @@ experiences:
           - Troubleshooting Windows & Linux servers, N/W related issues(LAN, WAN, Switches)
           
 
-projects:
-    title: Projects
-    intro: >
-    assignments:
-      - title: Dunzo
-        link: 'https://www.dunzo.com/'
-        tagline: "DevOps & SRE activities"
+# projects:
+#     title: Projects
+#     intro: >
+#     assignments:
+#       - title: Dunzo
+#         link: 'https://www.dunzo.com/'
+#         tagline: "DevOps & SRE activities"
 
-      - title: Veri5Digital
-        link: 'https://veri5digital.com/'
-        tagline: "Migration form VM to K8s"
+#       - title: Veri5Digital
+#         link: 'https://veri5digital.com/'
+#         tagline: "Migration form VM to K8s"
 
-      - title: Unisys
-        link: 'https://www.unisys.com/'
-        tagline: "Hybrid cloud management using Morpheus tool"  
+#       - title: Unisys
+#         link: 'https://www.unisys.com/'
+#         tagline: "Hybrid cloud management using Morpheus tool"  
 
 
-publications:
-    title: Blogs
-    intro: |
-      Lets share the things that we learn.
-    papers:
-      - title: Definitive Guide to Optimize Kinesis Costs
-        link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
-        authors: Manish Dave & Anand Baby 
-      - title: A guide on Elasticsearch
-        link: "https://hashedin.com/blog/elasticsearch/"
-        authors: Manish Dave & Anand Baby 
+# publications:
+#     title: Blogs
+#     intro: |
+#       Lets share the things that we learn.
+#     papers:
+#       - title: Definitive Guide to Optimize Kinesis Costs
+#         link: "https://hashedin.com/blog/definitive-guide-to-optimize-kinesis-costs/"
+#         authors: Manish Dave & Anand Baby 
+#       - title: A guide on Elasticsearch
+#         link: "https://hashedin.com/blog/elasticsearch/"
+#         authors: Manish Dave & Anand Baby 
 
 skills:
     title: Skills &amp; Proficiency
