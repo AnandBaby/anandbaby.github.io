@@ -47,8 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      DevOps Engineer with expertise in cloud infrastructure, automation, and deployment. Skilled in building and optimizing CI/CD pipelines using GitLab, Jenkins, ArgoCD, and Kubernetes. Proficient in Terraform, Terragrunt, Docker, and Ansible to streamline deployments and manage cloud environments. Experienced in implementing cost optimization strategies while ensuring system reliability and performance.
-
+      Senior DevOps Engineer with 9+ years of experience designing, automating, and scaling multi-tenant cloud-native infrastructure on AWS and Azure. Proven track record of supporting 100+ microservices across multi-account, multi-region environments, delivering 40% cloud cost reductions, and migrating workloads to Kubernetes (EKS/AKS). Deep expertise in Terraform, Terragrunt, ArgoCD, and GitOps-driven CI/CD. Strong Site Reliability mindset reducing MTTR and securing multi-tenant environments at scale.
 education:
     - degree: MBA in Systems
       university: Bharathiar University
@@ -71,70 +70,63 @@ experiences:
       time: 2023 - Present
       company: CSG International, Bangalore
       details: |          
-          - Designed and implemented end-to-end infrastructure architecture for Kubernetes using Terraform/OpenTofu and Terragrunt as IaC.
-          - Successfully migrated services from EC2 to Kubernetes (EKS & AKS)
-          - Configured ArgoCD Helm charts for GitOps-based deployments.
-          - Automated monitoring, alerting & logging for apps and infra across AWS and Azure.
-          - Ensured consistent security practices were implemented at all times.
-          - Built reverse proxy solutions for secure and scalable traffic routing in Kubernetes.
-          - Reduced 40% of cloud costs through resource optimization.
-          - Provided technical guidance to juniors on DevOps tools and best practices.
+          - Built and managed Kubernetes infrastructure using Terraform/OpenTofu and Terragrunt, supporting 30+ microservices across multi-account, multi-region AWS environments.
+          - Drove migration from EC2 to Kubernetes for production workloads, enabling GitOps-based delivery with ArgoCD and Helm, ensuring zero-downtime rollouts.
+          - Architected and maintained a large-scale observability stack (VictoriaMetrics, Elasticsearch, Grafana), defining SLIs/SLOs to improve reliability, query performance and cost efficiency in AWS and Azure.
+          - Strengthened the security posture of public-facing, multi-tenant services through AWS WAF, IAM hardening and secure-by-default infrastructure patterns.
+          - Designed secure, scalable Kubernetes reverse proxy solutions with KEDA-based autoscaling.
+          - Implemented SRE-aligned alerting and monitoring strategies across services, improving availability and reducing MTTR through actionable alerts and clear ownership.
+          - Reduced cloud costs by 40% through resource optimization.
 
     - role: Software Engineer - System Engineering  
       time: 2022 - 2023
       company: PharmEasy, Bangalore
       details: |         
-          - Architected and managed critical infrastructure to ensure HA and reliability.
-          - Implemented advanced AWS networking with security best practices
-          - Built and maintained CI/CD pipelines for deployments with Jenkins and ArgoCD.
-          - Implemented cloud cost optimizations, achieving significant savings.
+          - Scaled and operated large-scale, high-throughput production systems spanning 100+ microservices across multiple AWS accounts, including peak traffic and burst workload scenarios.
+          - Developed and handled CI/CD pipelines for deployments using Jenkins and ArgoCD.
+          - Delivered cloud cost optimizations, reducing monthly AWS spend by 40%.
           - Integrated DevOps practices into the SDLC through cross-team collaboration.
           - Performed EKS upgrades to ensure stability, security, and feature enhancements.
-          - Managed Elasticsearch and Kibana on Kubernetes using ECK. 
           - Automated serverless model deployments on AWS Lambda for inference workflows.
-          - Experience with Akamai, Sentry, Kafka, HashiCorp Vault, ArgoCD, Crossplane, etc..
+          - Hands-on experience with Akamai, Sentry, Kafka, HashiCorp Vault, ArgoCD, and Crossplane.
 
     - role: DevOps Cloud Engineer II
       time: 2021 - 2021
       company: omuni.com - Arvind Internet, Bangalore
       details: |         
-          - Maintained consistent security to ensure that best practices were implemented.
-          - Managed CI/CD pipelines in Jenkins to support weekly and on-demand releases.
-          - Maintained K8s clusters using KOPS for application deployment and management.
+          - Enforced security best practices across systems and environments.
+          - Prepared platforms for high-traffic events through load testing, capacity planning, and performance tuning, ensuring stability during traffic spikes.
+          - Managed Kubernetes clusters via KOPS, achieving 99.9% availability for ecommerce production workloads.
           - Worked with tools such as Kafka, FreeIPA, OpenVPN, and Rundeck.
-          - Analyzed and resolved security issues based on reports from Trend Micro DSM.
+          - Supported on-call responsibilities for critical microservices and monoliths, contributing to incident response, post-incident analysis, and long-term reliability improvements.
+          - Analyzed and addressed security issues based on reports from Trend Micro DSM.
           - Led DevOps team, mentored members, and ensured timely project delivery.
   
     - role: DevOps Engineer II
       time: 2019 - 2021
       company: HashedIn Technologies Pvt Ltd, Bangalore
       details: |          
-          - Researched and identified new technologies and tools that would help to grow the agile development environment.
+          - Researched and identified new technologies and tools that would improve the agile development environment.
           - Experienced in containerization using Docker and orchestration with Kubernetes.
-          - Optimized cloud costs through analysis and scaling strategies for various clients.
-          - Implemented solutions for clients for infrastructure provisioning, monitoring, and automation to enhance scalability and reliability.
-          - Managed multiple client engagements to ensure successful and timely project delivery.
-          - Developed a CloudFormation & Terraform stack to orchestrate the EKS environment creation from using parameters (VPC, EKS, EKSNodes. etc..)
-          - Experience with Morpheus tool - A hybrid cloud management and application management and orchestration platform.
-
+          - Reduced cloud costs by 25% across three client environments through rightsizing and autoscaling.
+          - Engineered infrastructure solutions for provisioning, monitoring, and automation, enhancing scalability and reliability.
+          - Handled 2+ concurrent client engagements with 95% on-time delivery and zero critical escalations.
+  
     - role: Associate Server Administrator
       time: 2017 - 2019
       company: Phases Innovation Pvt. Ltd, Cochin
       details: |
-          - Troubleshooting server outages and root cause analysis.
-          - Managed systems with Active Directory, Group Policies, and deployed applications on Linux (LAMP) and Windows (IIS, MSSQL).
-          - Maintaining high-end production servers & Cloud (AWS, GCP, Linode, XEN)
-          - Configured and maintained backup and disaster recovery solutions.
-          - Set up and maintained system & app monitoring for uptime and performance.
-
+          - Troubleshot server outages and root cause analysis.
+          - Administered Linux (LAMP) and Windows (IIS, MSSQL) production servers across multi-cloud environments (AWS, GCP, Linode, Xen) with Active Directory and Group Policy management.
+          - Configured backup, disaster recovery, and monitoring solutions to ensure SLA compliance and high system uptime.
     
     - role: System Administrator
       time: 2016 - 2017
       company: Phoenix Cybertech Pvt. Ltd , Ernakulam
       details: |
-          - Resolved technical issues raised by clients in a timely and efficient manner.          
-          - Recommended system upgrades and maintaining network and system security.
-          - Troubleshooting Windows & Linux servers, N/W related issues(LAN, WAN, Switches)
+          - Resolved high-priority incidents within SLA, maintaining 99.9% service availability.
+          - Recommended system upgrades and ensured network and system security.
+          - Troubleshot Windows and Linux servers and solved network-related issues (LAN, WAN, switches).
           
 
 # projects:
