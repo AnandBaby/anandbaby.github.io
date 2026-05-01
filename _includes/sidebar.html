@@ -11,9 +11,15 @@
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
 
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
+      <span class="theme-toggle-label">Dark Mode</span>
+    </button>
+
   </div><!--//profile-container-->
 
   {% include contact.html %}
+
+  {% include skills.html %}
 
   {% if sidebar.education %}
     {% include education.html %}
