@@ -15,39 +15,39 @@ sidebar:
     linkedin: anandbabyv
     github: AnandBaby
     bitbucket:
-    twitter: AnandBaby6
+    twitter:
     stack-overflow:
     codewars:
     pdf: https://drive.google.com/uc?export=download&id=1LrQ3AsvKWNYTIsCAjM21HoD_yZWYT7ng
 
 
-    languages:
-      - idiom: English
-        level: Professional
+    # languages:
+    #   - idiom: English
+    #     level: Professional
 
-      - idiom: Malayalam
-        level: Native
+    #   - idiom: Malayalam
+    #     level: Native
       
-      - idiom: Tamil
-        level: Medium
+    #   - idiom: Tamil
+    #     level: Medium
 
-      - idiom: Hindi
-        level: Limited  
+    #   - idiom: Hindi
+    #     level: Limited  
 
-    interests:
-      - item: Browsing
-        link:
+    # interests:
+    #   - item: Browsing
+    #     link:
 
-      - item: Travelling
-        link:
+    #   - item: Travelling
+    #     link:
 
-      - item: Movies & Music
-        link:
+    #   - item: Movies & Music
+    #     link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Senior DevOps Engineer with 9+ years of experience designing, automating, and scaling multi-tenant cloud-native infrastructure on AWS and Azure. Proven track record of supporting 100+ microservices across multi-account, multi-region environments, delivering 40% cloud cost reductions, and migrating workloads to Kubernetes (EKS/AKS). Deep expertise in Terraform, Terragrunt, ArgoCD, and GitOps-driven CI/CD. Strong Site Reliability mindset reducing MTTR and securing multi-tenant environments at scale.
+      Senior DevOps Engineer with <span class="metric-glow">9+</span> years of experience designing, automating, and scaling multi-tenant cloud-native infrastructure on AWS and Azure. Proven track record of supporting <span class="metric-glow">100+</span> microservices across multi-account, multi-region environments, delivering <span class="metric-glow">40%</span> cloud cost reductions, and migrating workloads to Kubernetes (EKS/AKS). Deep expertise in Terraform, Terragrunt, ArgoCD, and GitOps-driven CI/CD. Strong Site Reliability mindset reducing MTTR and securing multi-tenant environments at scale.
 education:
     - degree: MBA in Systems
       university: Bharathiar University
@@ -57,14 +57,14 @@ education:
       university: University of Calicut
       time: 2011 - 2014
       details: 67%
-    - degree: Plus Two
-      university: Board of Higher Secondary Examination, Kerala
-      time: 2009 - 2011
-      details: 69%
-    - degree: SSLC
-      university: Board of Public Examination, Kerala
-      time: 2009
-      details: 76%
+    # - degree: Plus Two
+    #   university: Board of Higher Secondary Examination, Kerala
+    #   time: 2009 - 2011
+    #   details: 69%
+    # - degree: SSLC
+    #   university: Board of Public Examination, Kerala
+    #   time: 2009
+    #   details: 76%
 experiences:
     - role: Senior DevOps Engineer
       time: 2023 - Present
@@ -159,59 +159,41 @@ experiences:
 #         authors: Manish Dave & Anand Baby 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
-    toolset:
-      - name: Linux Servers
-        level: 80%
-
-      - name: Windows Servers
-        level: 60%
-
-      - name: AWS
-        level: 82%
-
-      - name: Azure
-        level: 70%
-      
-      - name: GCP
-        level: 60%
-
+    groups:
+      - name: Cloud
+        items:
+          - AWS
+          - Azure
+          - GCP
       - name: Docker
-        level: 75%
-      
       - name: Kubernetes
-        level: 80%
-
+      - name: SCM
+        items:
+          - Git
+          - Bitbucket
+      - name: CI/CD
+        items:
+          - Jenkins
+          - ArgoCD
+          - FluxCD
+          - GitLab
+          - Spinnaker
       - name: Terraform & Terragrunt
-        level: 85%
-
-      - name: CloudFormation & Ansible
-        level: 73%
-
+      - name: Ansible & CloudFormation
+      - name: ELK, EFK & ECK
+      - name: Monitoring
+        items:
+          - Victoria Metrics
+          - Prometheus
+          - Grafana
+          - Nagios
       - name: Shell & Python
-        level: 70%
-
-      - name: ELK, ECK & Opensearch
-        level: 75%
-
-      - name: Filebeat & Logstash
-        level: 75%
-
-      - name: Victoria Metrics
-        level: 90%
-
-      - name: Prometheus, Nagios, Grafana
-        level: 80%
-   
-      - name: New Relic, Instana, AppD
-        level: 60%
-      
-      - name: GitLab & Jenkins
-        level: 86%
-      
-      - name: ArgoCD
-        level: 86%
+      - name: Xen & Vagrant
+      - name: APM Tools
+        items:
+          - NewRelic
 
 footer: >
     <i class="fas fa-heart"></i>
