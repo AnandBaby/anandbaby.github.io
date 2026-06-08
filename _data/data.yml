@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: Anand Baby
-    tagline: DevOps Engineer
+    tagline: Lead DevOps Engineer
   
     # Sidebar links
     email: anandbabyv@gmail.com
@@ -18,7 +18,7 @@ sidebar:
     twitter:
     stack-overflow:
     codewars:
-    pdf: https://drive.google.com/uc?export=download&id=1LrQ3AsvKWNYTIsCAjM21HoD_yZWYT7ng
+    pdf: https://drive.google.com/uc?export=download&id=1ycUEmXfLbsa9NGBARPPeUivHEa1hSmtp
 
 
     # languages:
@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Senior DevOps Engineer with <span class="metric-glow">9+</span> years of experience designing, automating, and scaling multi-tenant cloud-native infrastructure on AWS and Azure. Proven track record of supporting <span class="metric-glow">100+</span> microservices across multi-account, multi-region environments, delivering <span class="metric-glow">40%</span> cloud cost reductions, and migrating workloads to Kubernetes (EKS/AKS). Deep expertise in Terraform, Terragrunt, ArgoCD, and GitOps-driven CI/CD. Strong Site Reliability mindset reducing MTTR and securing multi-tenant environments at scale.
+      Lead DevOps Engineer with <span class="metric-glow">9+</span> years of experience designing, automating, and scaling multi-tenant cloud-native infrastructure on AWS and Azure. Proven track record of supporting <span class="metric-glow">100+</span> microservices across multi-account, multi-region environments, delivering <span class="metric-glow">40%</span> cloud cost reductions, and migrating workloads to Kubernetes (EKS/AKS). Deep expertise in Terraform, Terragrunt, ArgoCD, and GitOps-driven CI/CD. Strong Site Reliability mindset reducing MTTR and securing multi-tenant environments at scale.
 education:
     - degree: MBA in Systems
       university: Bharathiar University
@@ -66,7 +66,7 @@ education:
     #   time: 2009
     #   details: 76%
 experiences:
-    - role: Senior DevOps Engineer
+    - role: Lead DevOps Engineer
       time: 2023 - Present
       company: CSG International, Bangalore
       details: |          
