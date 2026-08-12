@@ -162,38 +162,49 @@ skills:
     title: Technical Skills
 
     groups:
-      - name: Cloud
+      - name: Cloud & Platforms
         items:
           - AWS
           - Azure
-          - GCP
-      - name: Docker
-      - name: Kubernetes
-      - name: SCM
+
+      - name: Containers & Orchestration
         items:
-          - Git
-          - Bitbucket
+          - Docker
+          - Kubernetes
+          - Helm
+      - name: GitOps
+        items:
+          - ArgoCD
+          - FluxCD
       - name: CI/CD
         items:
           - Jenkins
-          - ArgoCD
-          - FluxCD
-          - GitLab
-          - Spinnaker
-      - name: Terraform & Terragrunt
-      - name: Ansible & CloudFormation
-      - name: ELK, EFK & ECK
+          - GitLab & Azure Pipelines
+      - name: IaC
+        items:
+          - Terraform & Terragrunt
+          - Ansible & CloudFormation
+  
       - name: Monitoring
         items:
           - Victoria Metrics
-          - Prometheus
-          - Grafana
+          - Prometheus & Grafana
           - Nagios
-      - name: Shell & Python
-      - name: Xen & Vagrant
+      
+      - name: Logging
+        items:
+          - ELK, EFK & ECK
+
+      - name: Scripting
+        items:
+          - Bash
+          - Python
+
       - name: APM Tools
         items:
           - NewRelic
+          - Instana
+  
 
 footer: >
     <i class="fas fa-heart"></i>

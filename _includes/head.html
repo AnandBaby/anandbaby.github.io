@@ -1,4 +1,19 @@
 <head>
+  <script>
+    (function () {
+      var key = "anand-theme";
+      var theme;
+      try {
+        theme = localStorage.getItem(key);
+      } catch (e) {}
+      if (theme !== "dark" && theme !== "light") {
+        theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      if (theme === "dark") {
+        document.documentElement.classList.add("theme-dark");
+      }
+    })();
+  </script>
   <title>{{ site.title }}</title>
 
   <!-- Meta -->

@@ -2,67 +2,78 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
+    <li class="email">
+      <span class="contact-icon" aria-hidden="true"><i class="fas fa-envelope"></i></span>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.phone %}
-    <li class="phone"><i class="fas fa-phone"></i>
+    <li class="phone">
+      <span class="contact-icon" aria-hidden="true"><i class="fas fa-phone"></i></span>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
+    <li class="website">
+      <span class="contact-icon" aria-hidden="true"><i class="fas fa-globe-americas"></i></span>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
-    <li class="linkedin"><i class="fab fa-linkedin"></i>
+    <li class="linkedin">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-linkedin"></i></span>
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
+    <li class="github">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-github"></i></span>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.gitlab %}
-    <li class="gitlab"><i class="fab fa-gitlab"></i>
+    <li class="gitlab">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-gitlab"></i></span>
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.bitbucket %}
-    <li class="bitbucket"><i class="fab fa-bitbucket"></i>
+    <li class="bitbucket">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-bitbucket"></i></span>
       <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.twitter %}
-    <li class="twitter"><i class="fab fa-twitter"></i>
+    <li class="twitter">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-twitter"></i></span>
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.stack-overflow %}
-    <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
+    <li class="stack-overflow">
+      <span class="contact-icon" aria-hidden="true"><i class="fab fa-stack-overflow"></i></span>
       <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.codewars %}
-    <li class="codewars"><i class="fas fa-code"></i>
+    <li class="codewars">
+      <span class="contact-icon" aria-hidden="true"><i class="fas fa-code"></i></span>
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
     
     {% if sidebar.pdf %}
-    <li class="pdf"><i class="fas fa-file-pdf"></i>
+    <li class="pdf">
+      <span class="contact-icon" aria-hidden="true"><i class="fas fa-file-pdf"></i></span>
       <a href="{{ sidebar.pdf }}" target="_blank">Download Resume</a>
     </li>
     {% endif %}
